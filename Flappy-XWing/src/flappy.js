@@ -11,8 +11,8 @@ window.onload = function()
 
 
     //Right to left wing 
-    context.moveTo(400, 50);
-    context.lineTo(50,100);
+    context.moveTo(400, 100);
+    context.lineTo(50,200);
     context.stroke();
 
     // alert("Please don't sue me, Disney...");
